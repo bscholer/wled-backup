@@ -3882,7 +3882,7 @@
 			"stop": 0
 		}]
 	},
-	"15": {
+       {
 		"n": "boot",
 		"mainseg": 0,
 		"seg": [{
@@ -4372,7 +4372,7 @@
 			"stop": 0
 		}]
 	},
-	"16": {
+       {
 		"n": "boot",
 		"mainseg": 0,
 		"seg": [{
@@ -4617,7 +4617,7 @@
 			"stop": 0
 		}]
 	},
-	"17": {
+       {
 		"n": "Red Green",
 		"mainseg": 0,
 		"seg": [{
@@ -5107,4 +5107,4 @@
 			"stop": 0
 		}]
 	}
-}
+,"16":{"on":true,"bri":255,"transition":7,"mainseg":0,"seg":[{"id":0,"start":0,"stop":327,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"r-window","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":1,"start":327,"stop":683,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"door","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":true,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":2,"start":683,"stop":1010,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"l-window","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":3,"start":1010,"stop":1352,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"r-side","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":4,"start":1352,"stop":1469,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"r-roof-triangle","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":5,"start":1469,"stop":1586,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"l-roof-triangle","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":true,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":6,"start":1586,"stop":1843,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"c-roof","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":true,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"id":7,"start":1843,"stop":2183,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"l-side","col":[[0,0,0],[0,0,0],[165,165,165]],"fx":63,"sx":103,"ix":200,"pal":0,"c1":128,"c2":128,"c3":16,"sel":true,"rev":true,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0}],"ledmap":0,"n":"boot"}}
