@@ -1,5 +1,5 @@
 # wled-backup
-backups of my WLED device configurations
+Backups of my WLED device configurations. Generated and kept up to date by [wled-manager](https://github.com/bscholer/wled-manager)
 
 ## Naming convention
 | Prefix | Meaning     |
