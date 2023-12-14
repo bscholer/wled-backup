@@ -8,4 +8,5 @@ Backups of my WLED device configurations. Generated and kept up to date by [wled
 | cl-    | Corner Lamp |
 | dl-    | Desk Lamp   |
 | ml-    | Matrix Lamp |
-| x-     | exterior    |
+| x-     | eXterior    |
+| sl-    | String Lights |
